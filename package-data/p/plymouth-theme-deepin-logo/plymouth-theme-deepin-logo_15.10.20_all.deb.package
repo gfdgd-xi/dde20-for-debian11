@@ -1,0 +1,20 @@
+Package: plymouth-theme-deepin-logo
+Architecture: all
+Version: 15.10.20
+Priority: optional
+Section: admin
+Source: plymouth-theme-deepin
+Maintainer: Leng Ganghua <hiweed@gmail.com>
+Installed-Size: 4994
+Provides: plymouth-theme
+Depends: plymouth, util-linux (>= 2.30), plymouth-themes
+Replaces: plymouth (<< 0.8.1-1~)
+Filename: ./p/plymouth-theme-deepin-logo/plymouth-theme-deepin-logo_15.10.20_all.deb
+Size: 4777928
+MD5sum: 61d6726244c533548fef573a41dbfd97
+SHA1: 2817b096bba566fcc404a2cfe03edb097ab41cf5
+SHA256: 8ac6aa59cc5d1a13531ee307f293996a59ac75fbec5e686b335571f460b14566
+SHA512: 627aa697f51038d506f0dc4cbdb05f54243d1f14340ae938676ae815501f493f64ba32fb12fdbfa399e4e2a2090fc337dcd15d5318829d2022a3450723d20aab
+Description: Plymouth theme for Linux Deepin
+ This theme package contains deepin-logo.
+

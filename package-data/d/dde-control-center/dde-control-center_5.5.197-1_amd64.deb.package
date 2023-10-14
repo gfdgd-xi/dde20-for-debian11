@@ -1,0 +1,30 @@
+Package: dde-control-center
+Architecture: amd64
+Version: 5.5.197-1
+Priority: optional
+Section: admin
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 39798
+Depends: libc6 (>= 2.29), libcrypt1 (>= 1:4.1.0), libdareader1, libdeepin-pw-check, libdframeworkdbus2 (>= 5.5.12), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libpolkit-qt5-1-1 (>= 0.112.0), libqt5concurrent5 (>= 5.6.0~rc), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.14.1), libqt5svg5 (>= 5.6.0~beta), libqt5waylandclient5 (>= 5.14.1), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 5.2), libwayland-client0 (>= 1.9.91), qtbase-abi-5-15-2, qtwayland-client-abi-5-15-2, dconf-gsettings-backend | gsettings-backend, dde-account-faces, dde-daemon, startdde, lastore-daemon, dde-api, xkb-data, deepin-installer-timezones, passwd, netselect, uos-license-content, libglib2.0-0, deepin-desktop-schemas, deepin-sync-daemon
+Recommends: deepin-ab-recovery, deepin-recovery-plugin, dcc-network-plugin, dcc-deepinid-plugin
+Suggests: redshift
+Conflicts: dde-control-center-plugin-notify, dde-control-center-plugin-weather
+Replaces: dde-control-center-plugin-notify, dde-control-center-plugin-weather
+Filename: ./d/dde-control-center/dde-control-center_5.5.197-1_amd64.deb
+Size: 11674252
+MD5sum: e8a09e31c39bb75cdfe27bf21a81a407
+SHA1: 9f6c5979dd9de6759dfbb77ba2cefe3ed663c80d
+SHA256: 3e63f49909e344a128e8e886c1e8bf1bf404c6d5b4d32e855c52b95263864376
+SHA512: 383a5cd0b2a048ab8873ec13fe4d6352ca9e849ca26a8723e63d487deb504c6193bc113ee2e20e9249d1921412a914048b66a018584bfe741939b9692359e5e0
+Homepage: https://github.com/linuxdeepin/dde-control-center
+Description: New control center for Deepin Desktop Environment,
+ Integrated control center with rich functions,Besides providing rich
+ system setting items, the function level is simple, the logic is clear,
+ the user can easily set the system, and the learning cost is low,
+ Provide users with automatic update system and developer mode to meet
+ the various needs of users for the operating system.
+ abrecovery -restore system, Determine whether the system is restored
+ reboot-reminder-dialog -Update restart, Confirm whether to restart the system
+ after the completion of the update.
+ DDE Control Center is the control panel of Deepin Desktop Environment.
+

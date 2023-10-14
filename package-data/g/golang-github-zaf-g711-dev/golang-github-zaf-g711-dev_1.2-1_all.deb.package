@@ -1,0 +1,19 @@
+Package: golang-github-zaf-g711-dev
+Architecture: all
+Version: 1.2-1
+Priority: optional
+Section: golang
+Source: golang-github-zaf-g711
+Maintainer: Debian Go Packaging Team <team+pkg-go@tracker.debian.org>
+Installed-Size: 44
+Filename: ./g/golang-github-zaf-g711-dev/golang-github-zaf-g711-dev_1.2-1_all.deb
+Size: 7796
+MD5sum: d187156adfc70f8a35e1453e75779455
+SHA1: 7b37d18741b95f9ee7b21fe8995161c5314d2f70
+SHA256: 482f3fcec39e637ca45500535691194c6090e524dfc813d3d17716730ab1d100
+SHA512: caec2d91017af8cc3db2e388b685920c5ce2f4398549c8c2d66650e0b2256377e8d47df2f946e515f129db406c101aaf8c76873ba14c005aee29282b428172e5
+Homepage: https://github.com/zaf/g711
+Description: encode and decode ITU-T G.711 sound data
+ Package g711 implements encoding and decoding of G711 PCM sound data.
+ G.711 is an ITU-T standard for audio companding.
+

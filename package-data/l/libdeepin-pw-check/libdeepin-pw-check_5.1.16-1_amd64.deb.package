@@ -1,0 +1,21 @@
+Package: libdeepin-pw-check
+Architecture: amd64
+Version: 5.1.16-1
+Priority: optional
+Section: devel
+Source: deepin-pw-check
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 269
+Depends: libc6 (>= 2.14), libcrack2 (>= 2.8.14), libiniparser1 (>= 4.0), libpam0g (>= 1.1.0), cracklib-runtime
+Breaks: libpam-cracklib
+Replaces: libpam-cracklib
+Filename: ./l/libdeepin-pw-check/libdeepin-pw-check_5.1.16-1_amd64.deb
+Size: 35592
+MD5sum: d3be515b842a10abe0d8dc035f21a900
+SHA1: dca20e96469fb0d3321e238e5dec1c90cc99ae31
+SHA256: 4e9d29907203384f922319ae562593b7e3391577507284463a8ee2270ca22f92
+SHA512: 1f6b11d65118da51457a5d929871eaec3da89587fb133e0f372c4ba1c55e4eb968b71cc9abc501f35765e2f4422f0ea8a379db3c667d27630f202a5dc5d6874f
+Homepage: http://www.deepin.org
+Description: deepin password check interface
+ deepin-pw-check is a tool to verify the validity of the password
+

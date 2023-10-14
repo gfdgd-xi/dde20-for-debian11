@@ -1,0 +1,19 @@
+Package: golang-github-rickb777-date-dev
+Architecture: all
+Version: 1.12.4+deepin-1
+Priority: extra
+Section: devel
+Source: golang-github-rickb777-date
+Maintainer: electricface <songwentai@deepin.com>
+Installed-Size: 254
+Depends: golang-go, golang-github-rickb777-plural-dev
+Filename: ./g/golang-github-rickb777-date-dev/golang-github-rickb777-date-dev_1.12.4+deepin-1_all.deb
+Size: 45352
+MD5sum: 1a7d7ee4204d1110b5ee030b8f66de07
+SHA1: f4b1ac333c3b18f118428d8413d2008c8f2e5360
+SHA256: 4b5b8cf6628d0d81f4c0ea831ed08039e86363ca366ce908913bae290e822f93
+SHA512: 1aa35a233cf5759dbe5b01e78bf32673e20c0b9a6c8c18a0259a525836e26f537efe9c1f37af6f45c0a6117021c15aa26fa058c99a45af38f69456cfe671740c
+Homepage: https://github.com/rickb777/date
+Description: Package date provides functionality for working with dates.
+ This package introduces a light-weight Date type that is storage-efficient and convenient for calendrical calculations and date parsing and formatting (including years outside the [0,9999] interval).
+

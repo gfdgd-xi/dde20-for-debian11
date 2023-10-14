@@ -1,0 +1,20 @@
+Package: dde-dconfig-daemon
+Architecture: amd64
+Version: 0.0.20-1
+Priority: optional
+Section: libdevel
+Source: dde-app-services
+Maintainer: Deepin Packages Builder <yeshanshan@uniontech.com>
+Installed-Size: 333
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libstdc++6 (>= 5)
+Conflicts: dconfig-daemon
+Replaces: dconfig-daemon
+Filename: ./d/dde-dconfig-daemon/dde-dconfig-daemon_0.0.20-1_amd64.deb
+Size: 92100
+MD5sum: c683aa849ead54497f8f0e81f6bc4325
+SHA1: 622357a1f7f40d44829693ffec4b76cc869fe01d
+SHA256: aaa79f740bf2c4c3054efa487b703b202727afb2155f16898310fd4f3aeb9ef3
+SHA512: 3a12408e1ee612404d175fc3ac1d474eff906386bc594dde4453d6e148d0c98bc798d98d3b59b3c1841fe0a97cd97999f32907d599f76cfb38fdf082ea455de7
+Description: deepin desktop-environment - dde-dconfig-daemon module
+ dde-dconfig-daemon provids dbus service for reading and writing DSG configuration.
+

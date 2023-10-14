@@ -1,0 +1,21 @@
+Package: deepin-default-settings
+Architecture: all
+Version: 2023.04.04-1
+Priority: optional
+Section: admin
+Maintainer: sysdev <sysdev@deepin.com>
+Installed-Size: 2035
+Depends: deepin-artwork, deepin-default-settings-tuning (>= 2018.1.23), deepin-wallpapers, iw, python3
+Suggests: binfmt-support
+Conflicts: chrome-default-settings, deepin-default-settings-network, deepinop
+Replaces: deepin-default-settings-network, deepinop
+Filename: ./d/deepin-default-settings/deepin-default-settings_2023.04.04-1_all.deb
+Size: 1926288
+MD5sum: 1b71ab98ed677c81f0d435e97c857fd6
+SHA1: 797a30f51c17b3d7c3fd9d97de8f4c6c0e592558
+SHA256: 8f44dec2d34bfe7e25958c4a4adb1864741fa67ebd294d86034883db5b81554f
+SHA512: 30de17b160ceb35d08bf171934e80504d9bd68a9531cf3f03363a52f7fd46838cddb82f0cfaa4df1e31e4a234b260b05f822cee00260f159b6c6b12d87df6b42
+Description: default settings for deepin destkop environment
+ This package does tweaking and to provide better experience of deepin desktop
+ environment.
+

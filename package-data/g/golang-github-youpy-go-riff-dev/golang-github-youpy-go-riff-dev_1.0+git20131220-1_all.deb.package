@@ -1,0 +1,19 @@
+Package: golang-github-youpy-go-riff-dev
+Architecture: all
+Version: 1.0+git20131220-1
+Priority: optional
+Section: golang
+Source: golang-github-youpy-go-riff
+Maintainer: Debian Go Packaging Team <team+pkg-go@tracker.debian.org>
+Installed-Size: 24
+Filename: ./g/golang-github-youpy-go-riff-dev/golang-github-youpy-go-riff-dev_1.0+git20131220-1_all.deb
+Size: 3876
+MD5sum: 8411b88fcd3119b4eb9f28c54556b9b7
+SHA1: 06df1a1a5f2cd05a20d722afbce18d1ec2d049c9
+SHA256: ea0c0998956434f9304f747a7c98acbb0aaff7778f37881111b8895b8f42f583
+SHA512: 80e7c6915e5f23423f95cbf2d8da531dc7894d49de7d3c4bc268dc1947594773aaa60282f837900815098905b1f8e6a521f6f69ce352945abbb06b4a07b3f562
+Homepage: https://github.com/youpy/go-riff
+Description: encode and decode ITU-T G.711 sound data
+ Package g711 implements encoding and decoding of G711 PCM sound data.
+ G.711 is an ITU-T standard for audio companding.
+

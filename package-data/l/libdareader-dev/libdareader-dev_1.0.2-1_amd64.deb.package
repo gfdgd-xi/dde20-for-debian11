@@ -1,0 +1,19 @@
+Package: libdareader-dev
+Architecture: amd64
+Version: 1.0.2-1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: libdareader
+Maintainer: chenlinxuan <chenlinxuan@uniontech.com>
+Installed-Size: 17
+Depends: libdareader1 (= 1.0.2-1)
+Filename: ./l/libdareader-dev/libdareader-dev_1.0.2-1_amd64.deb
+Size: 2612
+MD5sum: 999db41234e30742f4eb0d984d0b1799
+SHA1: 67db5d836be00a3dc16f04f7c779632da8a42f05
+SHA256: 9da31a3d945de65c12cd611a41d5038ee8eda3fa4f73fabf685b26bebedb4998
+SHA512: bcfc555294f265a8ae9c0426246b779b1bee5418184e1d0dba7be990f477bc36a470757570d15d9982c54f0c6046826d94fc61f56f08acdf3ebbb16dc3984087
+Description: dev lib for read image/video data from deepin-authentication
+ this package is a dev lib for read image/video data from deepin-authentication.
+
